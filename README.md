@@ -1,5 +1,6 @@
 ##  Introducing Myself
-<img width="859" height="217" alt="image" src="https://github.com/user-attachments/assets/2d51d9ba-c6b3-44d7-87c0-546b3997fcc8" />
+<img width="854" height="211" alt="image" src="https://github.com/user-attachments/assets/ff53b972-8ea3-4b4a-b317-a8c50c93008e" />
+
 
 Hello, I'm Nikita. **MBA Business Analytics graduate** with a strong interest in data analysis, business intelligence, and data-driven decision-making.
 
